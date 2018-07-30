@@ -26,7 +26,7 @@
             </div>
         </div>
         <div class="section grey text-center m-t-60 p-t-40 p-b-40" id="banner-footer">
-            <h2 class="normal m-b-10">我们希望听到您的反馈</h2>
+            <h2 class="normal m-b-10">聆听</h2>
             <p>发送一段咨询，我们会尽快给您答复。</p>
         </div>
         <div class="section white">
