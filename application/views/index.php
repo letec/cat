@@ -6,7 +6,7 @@
     <title><?=SITE_NAME?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta content="建站 整站 微信公众号 小程序 API 软件开发 " name="description" />
-    <meta content="深圳市机器猫科技有限公司" name="author" />
+    <meta content="深圳市智代猫科技有限公司" name="author" />
     <?php $this->load->view('templete/link'); // 头部加载 ?>
     <!-- SLIDER REVOLUTION 4.x SCRIPTS  -->
     <script type="text/javascript" src="/static/plugins/slider-plugin/js/slider1.min.js"></script>
@@ -56,17 +56,17 @@
                         <!-- SLIDE  -->
                         <li data-transition="fade" data-slotamount="5" data-masterspeed="700">
                             <!-- MAIN IMAGE -->
-                            <img src="/static/img/bg/slide_one.jpg" alt="slidebg1" data-bgfit="cover" data-bgposition="center center"
+                            <img src="/static/img/bg/4.jpg" alt="slidebg1" data-bgfit="cover" data-bgposition="center center"
                                 data-bgrepeat="no-repeat">
                             <!-- LAYERS -->
                             <div class="tp-caption mediumlarge_light_white_center sft tp-resizeme slider" data-x="center"
-                                data-hoffset="0" data-y="80" data-speed="500" data-start="800" data-easing="Power4.easeOut"
+                                data-hoffset="-20" data-y="25" data-speed="500" data-start="800" data-easing="Power4.easeOut"
                                 data-endspeed="300" data-endeasing="Power1.easeIn" data-captionhidden="off" style="z-index: 6">
                                 <h3 class="text-white custom-font title ">
-                                    我们注重<br>
-                                    责任 & 效率 & 灵活性
+                                    深圳智代猫网络科技<br>
+                                    &nbsp;&nbsp;We do everything right
                                     <br />
-                                    </h3>
+                                </h3>
                             </div>
                             <div class="tp-caption sfb slider tp-resizeme slider" data-x="center" data-hoffset="0"
                                 data-y="320" data-speed="800" data-start="1000" data-easing="Power4.easeOut"
@@ -76,21 +76,21 @@
                         </li>
                         <li data-transition="fade" data-slotamount="5" data-masterspeed="700">
                             <!-- MAIN IMAGE -->
-                            <img src="/static/img/bg/picture-1.jpg" alt="slidebg2" data-bgfit="cover" data-bgposition="center center"
+                            <img src="/static/img/bg/1.jpg" alt="slidebg2" data-bgfit="cover" data-bgposition="center center"
                                 data-bgrepeat="no-repeat">
                             <!-- LAYERS -->
                             <div class="tp-caption mediumlarge_light_white_center sft tp-resizeme slider" data-x="center"
-                                data-hoffset="0" data-y="120" data-speed="500" data-start="800" data-easing="Power4.easeOut"
+                                data-hoffset="0" data-y="50" data-speed="500" data-start="800" data-easing="Power4.easeOut"
                                 data-endspeed="300" data-endeasing="Power1.easeIn" data-captionhidden="off" style="z-index: 6">
                                 <h2 class="text-white custom-font title ">
-                                    每一次都要完美<br>
-                                    Do everything right
+                                    我们注重<br>
+                                    责任 & 效率 & 灵活性
                                 </h2>
                             </div>
                             <div class="tp-caption sfb slider tp-resizeme slider" data-x="center" data-hoffset="0"
                                 data-y="320" data-speed="800" data-start="1000" data-easing="Power4.easeOut"
                                 data-endspeed="300" data-endeasing="Power1.easeIn" data-captionhidden="off" style="z-index: 6">
-                                <a href="#" class="btn btn-info btn-lg  btn-large m-r-10">关于机器猫</a>
+                                <a href="#" class="btn btn-info btn-lg  btn-large m-r-10">关于智代猫</a>
                             </div>
                             <div class="tp-caption fade slider tp-resizeme slider" data-x="center" data-hoffset="0"
                                 data-y="360" data-speed="500" data-start="800" data-easing="Power4.easeOut" data-endspeed="300"
@@ -101,18 +101,16 @@
                         <!-- SLIDE  -->
                         <li data-transition="fade" data-slotamount="5" data-masterspeed="700">
                             <!-- MAIN IMAGE -->
-                            <img src="/static/img/bg/4.jpg" alt="slidebg2" data-bgfit="cover" data-bgposition="center center"
+                            <img src="/static/img/bg/7.jpg" alt="slidebg2" data-bgfit="cover" data-bgposition="center center"
                                 data-bgrepeat="no-repeat">
                             <!-- LAYERS -->
-                            <div class="tp-caption mediumlarge_light_white_center sft tp-resizeme slider" data-x="center"
-                                data-hoffset="0" data-y="120" data-speed="500" data-start="800" data-easing="Power4.easeOut"
+                            <div class="tp-caption mediumlarge_light_white_center sft tp-resizeme slider" data-x="left"
+                                data-hoffset="-110" data-y="0" data-speed="500" data-start="800" data-easing="Power4.easeOut"
                                 data-endspeed="300" data-endeasing="Power1.easeIn" data-captionhidden="off" style="z-index: 6">
-                                <h2 class="text-white custom-font title ">
-                                    一路同行<br>
-                                </h2>
+                                <h2 class="text-white custom-font title ">一路同行</h2>
                             </div>
-                            <div class="tp-caption sfb slider tp-resizeme slider" data-x="center" data-hoffset="0"
-                                data-y="300" data-speed="800" data-start="1000" data-easing="Power4.easeOut"
+                            <div class="tp-caption sfb slider tp-resizeme slider" data-x="left" data-hoffset="-30"
+                                data-y="135" data-speed="800" data-start="1000" data-easing="Power4.easeOut"
                                 data-endspeed="300" data-endeasing="Power1.easeIn" data-captionhidden="off" style="z-index: 6">
                                 <a href="#" class="btn btn-info btn-lg  btn-large m-r-10">联系我们</a>
                             </div>
@@ -131,7 +129,6 @@
                     <div id="testomonials" class="owl-carousel row">
                         <div class="item">
                             <div class="col-md-6  col-md-offset-3 text-center">
-                                
                                 <h3 class="normal text-center">
                                     I have always received good service from the Frittt Templates. Timing and quality
                                     have always met my expectations and everything is communicated in a professional
@@ -141,7 +138,6 @@
                         </div>
                         <div class="item">
                             <div class="col-md-6   col-md-offset-3 text-center">
-                                
                                 <h3 class="normal text-center">
                                     We consider the Frittt Templates team a development partner who has proven to be
                                     creative in problem resolution, reliable in time commitments, and overall consistent
@@ -151,7 +147,6 @@
                         </div>
                         <div class="item">
                             <div class="col-md-6   col-md-offset-3 text-center">
-                                
                                 <h3 class="semi-bold text-center">
                                     The work was above and beyond what I could have expected. Excellent service all
                                     the way around from start to finish. Keep up the GREAT work! Great job!
@@ -241,7 +236,7 @@
             <div class="container">
                 <div class="p-t-40 p-b-40  text-center">
                     <h3 class="text-center">
-                        机器猫科技是您的技术合伙人，我们包办线上技术事务，以便于您可以专注于核心业务。
+                        智代猫科技是您的技术合伙人，我们包办线上技术事务，以便于您可以专注于核心业务。
                     </h3>
                 </div>
             </div>

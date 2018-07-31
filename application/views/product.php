@@ -40,11 +40,10 @@
                             <h1 class="m-b-20">
                                 <span class="semi-bold">全</span> 栈</h1>
                             <p>
-                                前端页面 后端 API对接 <br>
-                                公众号 小程序 <br>
-                                后续运维 技术支持 <br>
+                                前端页面 后端开发 API对接 <br>
+                                公众号 & 小程序 <br>
+                                运维技术支持 <br>
                             </p>
-                            <a href="javascript:" class="bold">Learn More</a>
                         </div>
                     </div>
                 </article>
@@ -60,7 +59,6 @@
                             <p>
                                 我们是如此渴望您获得成功，您的成功就是我们的成功。
                             </p>
-                            <a href="javascript:" class="bold">Learn More</a>
                         </div>
                     </div>
                 </article>
@@ -80,10 +78,9 @@
                                 <span class="semi-bold">技</span> 术</h1>
                             <p>
                                 多年经验的开发团队 <br>
-                                精通PHP,GOLANG,JAVASCRIPT,HTML5等技术 <br>
-                                深刻理解线上运维，服务稳定，高可用。
+                                使用最新的PHP,GOLANG,JAVASCRIPT,HTML5等技术 <br>
+                                运维服务稳定高可用。
                             </p>
-                            <a href="javascript:" class="bold">Learn More</a>
                         </div>
                     </div>
                 </article>
@@ -100,7 +97,6 @@
                                 事情是具体的每个人做出来的 <br>
                                 我们始终坚持结果导向
                             </p>
-                            <a href="javascript:" class="bold">Learn More</a>
                         </div>
                     </div>
                 </article>

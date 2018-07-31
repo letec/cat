@@ -47,7 +47,7 @@
         <div class="p-t-30 p-b-50">
             <div class="row">
                 <div class="col-md-2 col-lg-2 col-sm-2 col-xs-12 xs-m-b-20">
-                    © 深圳市机器猫科技有限公司
+                    © 深圳市智代猫科技有限公司
                     <br />
                     All Rights Reserved.
                 </div>
