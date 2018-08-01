@@ -71,7 +71,7 @@
                             <div class="tp-caption sfb slider tp-resizeme slider" data-x="center" data-hoffset="0"
                                 data-y="320" data-speed="800" data-start="1000" data-easing="Power4.easeOut"
                                 data-endspeed="300" data-endeasing="Power1.easeIn" data-captionhidden="off" style="z-index: 6">
-                                <a href="#" class="btn btn-info btn-lg m-r-10">了解业务</a>
+                                <a href="/welcome/product" class="btn btn-info btn-lg m-r-10">了解业务</a>
                             </div>
                         </li>
                         <li data-transition="fade" data-slotamount="5" data-masterspeed="700">
@@ -231,7 +231,6 @@
                 </div>
             </div>
         </div>
-        <div class="copyrights">Collect from <a href="http://www.cssmoban.com/" >企业网站模板</a></div>
         <div class="section gray">
             <div class="container">
                 <div class="p-t-40 p-b-40  text-center">
@@ -244,6 +243,5 @@
         <?php $this->load->view('templete/foot'); // 尾部加载 ?>
     </div>
     <?php $this->load->view('templete/load'); // js加载 ?>
-    
 </body>
 </html>
